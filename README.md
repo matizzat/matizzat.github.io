@@ -5,7 +5,8 @@ de la Universidad Nacional de San Luis. Estoy desarrollando mi trabajo final en 
 grupo de investigación LIDIC. Actualmente investigo como integrar Grafos de Conocimiento
 con Grandes Modelos de Lenguaje.
 
-Soy ayudante de cátedra de la materia [Inteligencia Artificial](http://ia.dirinfo.unsl.edu.ar/)
+Soy ayudante de cátedra de la materia [Inteligencia Artificial](http://ia.dirinfo.unsl.edu.ar/).
+Este es mi [Curriculum Vitae](./recursos/cv.pdf)
 
 ## Cursos
 
